@@ -1,7 +1,14 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <!-- CSSファイルの読み込み -->
-    <link rel="stylesheet" href="box.css">
+.box1{
+	width: 300px;
+	height: 300px;
+	background-color: red;
+	padding: 30px;
+}
+
+.box2 {
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	border: 5px solid yellow;
+}
 
